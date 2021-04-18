@@ -1,0 +1,19 @@
+{
+    "name": "gusmanu/contact",
+    "description": "send email to admin and save contact query to db",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gusmanu",
+            "email": "gusmanurr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gusmanu\\Contact\\": "src/"
+        }
+    }
+}
