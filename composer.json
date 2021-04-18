@@ -15,5 +15,12 @@
         "psr-4": {
             "Gusmanu\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gusmanu\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
